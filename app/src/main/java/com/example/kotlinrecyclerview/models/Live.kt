@@ -1,8 +1,11 @@
-package com.example.kotlinrecyclerview.models
+package com.ocanha.kotlinrecyclerview.models
 
 data class Live(
+
     var title: String,
     var author: String,
-    var thubnaiUrl: String,
+    var thumbnailUrl: String,
     var link: String
-)
+
+) {
+}

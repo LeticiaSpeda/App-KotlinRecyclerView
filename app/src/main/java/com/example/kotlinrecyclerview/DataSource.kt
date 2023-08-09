@@ -1,6 +1,6 @@
 package com.example.kotlinrecyclerview
 
-import com.example.kotlinrecyclerview.models.Live
+import com.ocanha.kotlinrecyclerview.models.Live
 
 class DataSource {
     companion object {
